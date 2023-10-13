@@ -1,13 +1,13 @@
-          class hi()
+          class hi() #from b1
 
 
          {
-
-          private static void main()
+ 
+          private static void main()   #from b1
           void main("ASLAM")
 
 
-         {
+         {   #from b1
 
          }
 
